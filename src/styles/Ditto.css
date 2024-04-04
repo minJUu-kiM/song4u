@@ -1,0 +1,37 @@
+.Ditto{
+  height: 80%;
+  padding-top: 20px;
+}
+
+.Ditto_info{
+  display: flex;
+  justify-content: space-around;
+}
+
+.Ditto_video{
+  padding-top: 10px;
+  width: 60%;
+  height: 60%;
+}
+
+
+
+.Ditto_Recommend{
+  margin-top: 40px;
+}
+
+.Ditto_Recommend_music{
+  padding-top: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.Ditto_NewJeans{
+  margin-top: 30px;
+}
+
+.Ditto_info_text{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+}

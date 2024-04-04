@@ -1,0 +1,31 @@
+.GenreSidebar .nav{
+  display: flex;
+  flex-direction: column;
+
+}
+
+.GenreTabItem{
+  height: 80px;
+  color: black;
+  padding-top: 25px;
+}
+
+.GenreSelected {
+  color: red !important;
+  border: 1px solid rgb(147, 147, 147) !important;
+  border-radius: 20px !important;
+}
+
+.GenreTabItem:hover {
+  border: 1px solid rgb(147, 147, 147) !important;
+  border-radius: 20px !important;
+}
+.GenreRe{
+  display: flex;
+}
+
+.GenreContent{
+
+  width: 100%;
+  padding-left: 50px;
+}

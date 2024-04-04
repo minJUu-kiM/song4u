@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+
+  .SenTable{
+  border-spacing: 20px;
+  margin: auto;
+  border-collapse: separate;
+  border-spacing: 40px 20px;
+}
+
+.SenTitle{
+  margin: 30px 0px 30px 40px;
+}
+
+.SenPly {
+  width: 200px;
+  margin: auto;
+}
+
+.SenPlyName{
+  font-size: large;
+  font-family: 'Nanum Gothic', sans-serif;
+}
+
+table{
+  border-spacing:20px;
+}
+
+.SenPly a {
+  color: black;
+  text-decoration: none;
+}
+
+.SenPly a:hover {
+  color: black;
+  text-decoration: none;
+}

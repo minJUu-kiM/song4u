@@ -1,0 +1,13 @@
+.About{
+  width: 60%;
+  margin: auto;
+}
+
+.About_Title{
+  text-align: center;
+  padding: 50px 0 50px 0;
+}
+
+.About_Text{
+  line-height: 200%;
+}

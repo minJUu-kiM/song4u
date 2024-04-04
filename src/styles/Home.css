@@ -1,0 +1,22 @@
+.Today{
+  text-align: center;
+  margin: 30px 0 30px 0;
+}
+
+.Recommend{
+  display: flex;
+
+}
+
+.Recommend_Carousel{
+
+}
+
+.Recommend_Table{
+  margin: auto;
+}
+
+.Recommend_Text{
+  margin: 20px 0 20px 0;
+
+}

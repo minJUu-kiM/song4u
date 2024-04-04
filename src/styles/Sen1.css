@@ -1,0 +1,34 @@
+.SenSong1UL{
+
+  width: 50%;
+}
+
+.SenSong1LI{
+  font-size: 15px;
+  margin-top: 10px;
+}
+
+.SenSong1MoreTitle{
+
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+.SenSong1More{
+  display: flex;
+
+  width: 50%;
+}
+
+.Sen1Title{
+  width: 100%;
+  margin: 30px auto 30px auto;
+  text-align: center;
+}
+
+a {
+  color: inherit;  /* 링크의 색상을 상속받음 */
+  text-decoration: none;  /* 밑줄 제거 */
+}
+
